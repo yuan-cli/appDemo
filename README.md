@@ -1,2 +1,2 @@
-# yuanApp
-手机端项目模板
+# pcDemo
+pc端项目模板
