@@ -1,2 +1,2 @@
-# pcDemo
-pc端项目模板
+# appDemo
+手机端项目模板
